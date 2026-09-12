@@ -59,7 +59,7 @@ useful part of the broken export and are computed explicitly here.
 No third-party dependencies. Python 3.12 or newer, standard library only.
 
 ```bash
-git clone https://github.com/USERNAME/coingecko-signed-snapshot.git
+git clone https://github.com/ephraimrv/coingecko-signed-snapshot.git
 cd coingecko-signed-snapshot
 ```
 
