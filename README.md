@@ -3,7 +3,7 @@
 Retrieve CoinGecko market data with the **sign** on percentage changes intact
 and a **capture timestamp** on every row.
 
-[![CI](https://github.com/ephraimrv/coingecko-signed-snapshot/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/coingecko-signed-snapshot/actions/workflows/ci.yml)
+[![CI](https://github.com/ephraimrv/coingecko-signed-snapshot/actions/workflows/ci.yml/badge.svg)](https://github.com/ephraimrv/coingecko-signed-snapshot/actions/workflows/ci.yml)
 
 ---
 
